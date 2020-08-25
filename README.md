@@ -40,7 +40,7 @@ this app generates a readme
 
 ## Demonstration
 
-![GIF](../readmedemo.gif)
+![GIF](/readmedemo.gif)
 
 
 
